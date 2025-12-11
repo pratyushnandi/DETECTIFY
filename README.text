@@ -1,1 +1,3 @@
-THIS IS MY PROJECT
+🚦 DETECTIFY – Intelligent Traffic Signal AND Violation Detection System
+
+DETECTIFY is an AI-powered traffic monitoring system designed to automatically detect and report traffic rule violations in real time. It uses advanced deep learning models such as YOLOv8, CNN  to identify vehicles, traffic signal states, helmet usage, and stop-line crossing events.
